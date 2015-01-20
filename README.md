@@ -1,4 +1,3 @@
-# PrimeiroProjetoSymphony
 PROJETO SYMPHONY
 =======================
 
